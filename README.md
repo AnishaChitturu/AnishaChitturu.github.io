@@ -2,13 +2,13 @@
 
 ## Education
 
-![Texas State University](imgs/university_logo_tsu.png)  
+![Texas State University](university_logo_tsu.png)  
 **M.S. in Data Analytics & Information Systems**  
 Texas State University, Austin, TX  
 _August 2022 - April 2024_  
 GPA: 4.0/4.0
 
-![GITAM University](imgs/university_logo_gitam.png)  
+![GITAM University](university_logo_gitam.png)  
 **B.Tech. in Electronics and Communication**  
 GITAM University, India  
 _2012 - 2016_  
