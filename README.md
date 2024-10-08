@@ -62,7 +62,7 @@ _Feb 2024 - May 2024_
 ### Text Mining | Adobe Commerce | Texas State University
 - **Objective:** Enhance customer service efficiency by improving categorization and resolution times for CRM data.
 - **Methods:** Implemented topic modeling using Latent Dirichlet Allocation (LDA) and neural networks to analyze and categorize customer service interactions.
-- ![Word cloud for "MariaDB" category](https://github.com/AnishaChitturu/AnishaChitturu.github.io/blob/main/Word%20cloud.jpg){: width="300" height="200"}
+- <img src="https://github.com/AnishaChitturu/AnishaChitturu.github.io/blob/main/Word%20cloud.jpg" alt="Word cloud for "MariaDB" category" width="300" height="200">
 - **Results:** Improved categorization accuracy by 10% and reduced resolution time by 30%. Additional 5% accuracy improvement with neural networks, leading to higher customer satisfaction and operational efficiency.
 - ![Classification Model Results](https://github.com/AnishaChitturu/AnishaChitturu.github.io/blob/main/Classification_Models.png){: width="300" height="200"}
 - **Tools Used:** Python, NLTK, SpaCy, TensorFlow
