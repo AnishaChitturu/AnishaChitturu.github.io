@@ -4,7 +4,7 @@
 
 ## Work Experience
 
-**Tata Consultancy Services, India | Experience - 5.9 years**  
+### Tata Consultancy Services, India | Experience - 5.9 years  
 
 **Data Analyst | Client - Primark, UK**  
 _Jan 2019 - Dec 2020_  
