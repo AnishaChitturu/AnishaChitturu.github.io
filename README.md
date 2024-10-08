@@ -38,9 +38,9 @@ _Jan 2021 - Apr 2022_
 _Aug 2023 - Dec 2023_
 - Performed data analysis on 60,000 tickets from the CRM system in python using regex and NLP libraries (Spacy, NLTK) for data cleansing and tagging, and statistical analysis packages in R for model validation and accuracy assessment.
 - Utilized topic modeling techniques (LDA, BERT) and deep learning classification algorithms, improving classification accuracy to 95%, which contributed to increased customer satisfaction.
-- ![Category classification](https://github.com/AnishaChitturu/AnishaChitturu.github.io/blob/main/Category.png)
+- ![Category classification](Category.png)
 - Gained hands-on experience building CI/CD pipelines with GitLab, resulting in a 30% reduction in deployment time and improved integration efficiency across projects.
-- ![Classification Model Results](https://github.com/AnishaChitturu/AnishaChitturu.github.io/blob/main/Classification_Models.png) 
+- ![Classification Model Results](Classification_Models.png) 
 
 **Graduate Student Assistant | Texas State University, Round Rock**  
 _Feb 2024 - May 2024_
@@ -54,16 +54,16 @@ _Feb 2024 - May 2024_
 ### Network Analysis of Witcher Series
 - **Objective:** Increase viewer engagement by analyzing the complex relationships between characters in the Witcher series.
 - **Methods:** Utilized network analysis techniques to map out interactions and relationships between over 1,000 characters in the series.
-- ![Characters popularity over series](https://github.com/AnishaChitturu/AnishaChitturu.github.io/blob/main/Character_book_series_centrality.png)
+- ![Characters popularity over series](Character_book_series_centrality.png)
 - **Results:** Identified key character connections and potential plot development areas, leading to a projected 25% increase in viewer engagement.
-- ![Network graph of witcher series](https://github.com/AnishaChitturu/AnishaChitturu.github.io/blob/main/communities.png)
+- ![Network graph of witcher series](communities.png)
 - **Tools Used:** BeautifulSoup, Python (NetworkX)
 
 ### Data Science Virtual Internship | British Airways
 - **Objective:** Improve customer experience by analyzing sentiment in customer reviews.
 - **Methods:** Extracted unstructured data from a travel review website using web scraping techniques. Conducted sentiment analysis using Natural Language Processing (NLP) to categorize customer feedback.
 - **Results:** Provided actionable insights into customer sentiment, helping British Airways enhance service delivery and customer satisfaction.
-- ![Predictive Analysis Results](https://github.com/AnishaChitturu/AnishaChitturu.github.io/blob/main/BA_Forage_Results.png)
+- ![Predictive Analysis Results](BA_Forage_Results.png)
 - **Tools Used:** Python (BeautifulSoup, Scrapy), NLP (NLTK)
 
 ### Research Bot using OpenAI
@@ -73,14 +73,14 @@ Employed FAISS for efficient storage and retrieval of generated embeddings, enab
 Implemented natural language query processing to retrieve relevant answers from the analyzed articles, displaying sources for credibility.
 - **Results:** Successfully improved the speed and accuracy of information retrieval, providing users with quick and insightful answers to their queries.
 Enhanced customer engagement by enabling dynamic interaction with news content.
-- ![Research Bot](https://github.com/AnishaChitturu/FirstBot/assets/74812549/0f0d431b-345f-4c74-9b3d-4d77d0c70bc5)
+- ![Research Bot](News%20Research%20Bot%20Demo.png)
 **Tools Used:** Python, Streamlit, OpenAI, NLTK, SpaCy, FAISS, Dotenv, LangChain
 
 ### Database Management System for Car Rental Agency | Texas State University
 - **Objective:** Develop a secure and efficient database management system for a car rental agency.
 - **Methods:** Designed and implemented a MySQL database to manage customer, rental, and vehicle data securely.
 - **Results:** Ensured data integrity and security, streamlined operations, and facilitated easy data retrieval for reporting and analysis.
-- ![Database Schema for Car Rental Agency](https://github.com/AnishaChitturu/AnishaChitturu.github.io/blob/main/Car_Rental_Agency_DBMS.png)
+- ![Database Schema for Car Rental Agency](Car_Rental_Agency_DBMS.png)
 - **Tools Used:** MySQL
 
 ## Skills
