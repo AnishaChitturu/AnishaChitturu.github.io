@@ -1,6 +1,5 @@
-# Portfolio
 
-- Recent graduate with 6 years of experience in data science, data analysis, data visualization and machine learning, seeking to apply analytical and technical skills to drive data-driven decisions and insights. 
+Recent graduate with 6 years of experience in data science, data analysis, data visualization and machine learning, seeking to apply analytical and technical skills to drive data-driven decisions and insights. 
 
 ## Work Experience
 
@@ -25,8 +24,8 @@ _Aug 2016 - Dec 2018_
 - Enhanced fraudulent activity identification by 30% through anomaly detection techniques.
 - Achieved a 25% reduction in fraud incidents with a deployed real-time monitoring model showing 95% accuracy.
 
-**Data Scientist | Client - Bank of America, USA**
-_Jan 2021 - Apr 2022_
+**Data Scientist | Client - Bank of America, USA**  
+_Jan 2021 - Apr 2022_  
 - Improved operational efficiency by 15% through transaction volume trend analysis.
 - Increased transaction volumes by 10% via KPI design in Power BI, reducing churn by 15%.
 - Achieved a 20% YOY increase in engagement through statistical analysis of customer behavior.
@@ -34,13 +33,16 @@ _Jan 2021 - Apr 2022_
 - Cut data collection time by 40% through automated reporting frameworks using AWS Glue and Redshift.
 - Enhanced data quality for strategic decision-making in collaboration with cross-functional teams.
 
-**Data Science Intern | Adobe Commerce - Texas State University**
-_Aug 2023 - Dec 2023_
+**Data Science Intern | Adobe Commerce - Texas State University, USA**  
+_Aug 2023 - Dec 2023_  
 - Performed data analysis on 60,000 tickets from the CRM system in python using regex and NLP libraries (Spacy, NLTK) for data cleansing and tagging, and statistical analysis packages in R for model validation and accuracy assessment.
 - Utilized topic modeling techniques (LDA, BERT) and deep learning classification algorithms, improving classification accuracy to 95%, which contributed to increased customer satisfaction.
-- ![Category classification](Category.png)
+  
+![Category classification](Category.png)
+
 - Gained hands-on experience building CI/CD pipelines with GitLab, resulting in a 30% reduction in deployment time and improved integration efficiency across projects.
-- ![Classification Model Results](Classification_Models.png) 
+  
+![Classification Model Results](Classification_Models.png) 
 
 **Graduate Student Assistant | Texas State University, Round Rock**  
 _Feb 2024 - May 2024_
@@ -54,17 +56,25 @@ _Feb 2024 - May 2024_
 ### Network Analysis of Witcher Series
 - **Objective:** Increase viewer engagement by analyzing the complex relationships between characters in the Witcher series.
 - **Methods:** Utilized network analysis techniques to map out interactions and relationships between over 1,000 characters in the series.
-- ![Characters popularity over series](Character_book_series_centrality.png)
+  
+![Characters popularity over series](Character_book_series_centrality.png)
+
 - **Results:** Identified key character connections and potential plot development areas, leading to a projected 25% increase in viewer engagement.
-- ![Network graph of witcher series](communities.png)
 - **Tools Used:** BeautifulSoup, Python (NetworkX)
+
+![Network graph of witcher series](communities.png)
+
+
 
 ### Data Science Virtual Internship | British Airways
 - **Objective:** Improve customer experience by analyzing sentiment in customer reviews.
 - **Methods:** Extracted unstructured data from a travel review website using web scraping techniques. Conducted sentiment analysis using Natural Language Processing (NLP) to categorize customer feedback.
 - **Results:** Provided actionable insights into customer sentiment, helping British Airways enhance service delivery and customer satisfaction.
-- ![Predictive Analysis Results](BA_Forage_Results.png)
 - **Tools Used:** Python (BeautifulSoup, Scrapy), NLP (NLTK)
+  
+![Predictive Analysis Results](BA_Forage_Results.png)
+
+
 
 ### Research Bot using OpenAI
 - **Objective:** The Research Bot aims to streamline the analysis of news articles by allowing users to input URLs directly. It enhances the efficiency of retrieving relevant information and answering queries through advanced natural language processing techniques.
@@ -73,24 +83,28 @@ Employed FAISS for efficient storage and retrieval of generated embeddings, enab
 Implemented natural language query processing to retrieve relevant answers from the analyzed articles, displaying sources for credibility.
 - **Results:** Successfully improved the speed and accuracy of information retrieval, providing users with quick and insightful answers to their queries.
 Enhanced customer engagement by enabling dynamic interaction with news content.
-- ![Research Bot](News%20Research%20Bot%20Demo.png)
-**Tools Used:** Python, Streamlit, OpenAI, NLTK, SpaCy, FAISS, Dotenv, LangChain
+**Tools Used:** Python, Streamlit, OpenAI, NLTK, SpaCy, FAISS, LangChain
+  
+![Research Bot](News%20Research%20Bot%20Demo.png)
+
 
 ### Database Management System for Car Rental Agency | Texas State University
 - **Objective:** Develop a secure and efficient database management system for a car rental agency.
 - **Methods:** Designed and implemented a MySQL database to manage customer, rental, and vehicle data securely.
 - **Results:** Ensured data integrity and security, streamlined operations, and facilitated easy data retrieval for reporting and analysis.
-- ![Database Schema for Car Rental Agency](Car_Rental_Agency_DBMS.png)
-- **Tools Used:** MySQL
+- **Tools Used:** MySQL, MS SQL Server
+  
+![Database Schema for Car Rental Agency](Car_Rental_Agency_DBMS.png)
+
 
 ## Skills
 
-- **Programming Languages:** Python, R, SQL  
-- **BI Tools:** Power BI (Dashboard Development, DAX), Tableau (Desktop/Server)  
-- **ETL Tools:** SSIS, AWS Glue, Azure Data Factory  
-- **Databases:** MS SQL Server, PostgreSQL, MySQL, NoSQL, Snowflake  
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras, NLP (Spacy, NLTK), ARIMA, LSTM, Random Forest, XGBoost, Pandas, Numpy, Seaborn  
-- **Cloud Platforms:** AWS, Azure
+**Programming Languages:** Python, R, SQL  
+**BI Tools:** Power BI (Dashboard Development, DAX), Tableau (Desktop/Server)  
+**ETL Tools:** SSIS, AWS Glue, Azure Data Factory  
+**Databases:** MS SQL Server, PostgreSQL, MySQL, NoSQL, Snowflake  
+**Machine Learning:** Scikit-learn, TensorFlow, Keras, NLP (Spacy, NLTK), ARIMA, LSTM, Random Forest, XGBoost, Pandas, Numpy, Seaborn  
+**Cloud Platforms:** AWS, Azure
 
 ## Education
 
@@ -112,10 +126,10 @@ GPA: 8.95/10
 
 ## Awards:
 
-- **Excellence and Commitment Award**, Tata Consultancy Services (TCS)  
+**Excellence and Commitment Award**, Tata Consultancy Services (TCS)  
   Recognized for outstanding performance and dedication to project success, reflecting commitment to quality and teamwork.
   
-- **Beta Gamma Sigma Award**, Texas State University
+**Beta Gamma Sigma Award**, Texas State University
   Honored as a top 10% graduate scholar, acknowledging academic excellence and leadership in business studies.  
 
 
