@@ -35,7 +35,7 @@ _Sep 2024 – Jun 2025_
 
 ---
 
-### Data Analysis & BI Assistant | TXST- Austin,TX
+## Data Analysis & BI Assistant | TXST- Austin,TX
 _Feb 2024 – May 2024_
 
 - Built a comprehensive dashboard using Excel (formulas, macros, pivot tables, vlookup) tracking over 5,000 correspondence logs, allowing the stakeholders to identify high-volume request types and reduce response times by 15%.
