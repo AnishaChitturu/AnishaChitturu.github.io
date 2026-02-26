@@ -3,37 +3,49 @@ Recent graduate with 6 years of experience in data science, data analysis, data 
 
 ## Work Experience
 
-### Tata Consultancy Services, India | Experience - 5.9 years  
+## 🏢 Texas State University
+**Systems Analyst I**  
+_Jun 2025 – Present_
 
-**Data Analyst | Client - Primark, UK**  
-_Jan 2019 - Dec 2020_  
-- Reduced ETL processing time by 30% through automated workflows in Azure Data Factory.
-- Developed Power BI dashboards revealing a 15% increase in sales during promotions.
-- Decreased Customer Acquisition Cost (CAC) by 12% through metric engineering in Power BI.
-- Improved query performance by 25% with Azure Synapse Analytics for scalable data infrastructure.
-- Enhanced reporting speed by 20% with real-time sales data processing in Azure Stream Analytics.
-- Minimized downtime to under 2% through Azure Monitor tracking of ETL workflows.
+- Developed an automated weekly **Power BI fundraising dashboard** integrating Blackbaud Raiser’s Edge and Luminate Online, improving fundraising decision-making by **15%**.
+- Automated **10+ reporting and data quality workflows** using Power Automate and SQL validation rules, saving **20+ hours per week**.
+- Built end-to-end **Power Automate workflows using Power Fx**, reducing year-end statement processing time by **30%** and improving accuracy.
+- Developed a **Power Apps mobile application** for donor portfolio management, increasing outreach completion by **25%** and reducing manual entry by **40%**.
+- Optimized SQL queries improving execution performance by **18%** and ensuring reliable reconciliation across systems.
+- Led **UI/UX redesign of donation web forms** using HTML, CSS, JavaScript, improving completion rates by **25%**.
+- Integrated **API-based data sync pipelines**, reducing manual entry by **50%**.
+- Built automated ETL pipelines using **Python, Azure Data Factory, Databricks, and ADLS Gen2**, reducing manual data collection by **80%**.
+- Provided **database administration support**, including performance tuning, indexing, and security maintenance.
+- Delivered donor analytics insights contributing to **12% increase in retention** and **10% increase in alumni donations**.
 
-**Data Scientist | Client - Cisco, USA**  
-_Aug 2016 - Dec 2018_  
-- Streamlined ETL processes by optimizing SQL queries, reducing historical sales data processing time by 30%.
-- Integrated 1M+ transaction histories from SQL Server and Salesforce for targeted analytics.
-- Enhanced model compatibility by 25% through extensive data cleaning and preprocessing in Python.
-- Increased customer retention by 15% by engineering analytical features like Churn Rate and Lifetime Value.
-- Improved fraud detection accuracy by 20% with a model using Random Forest and XGBoost.
-- Enhanced fraudulent activity identification by 30% through anomaly detection techniques.
-- Achieved a 25% reduction in fraud incidents with a deployed real-time monitoring model showing 95% accuracy.
+---
 
-**Data Scientist | Client - Bank of America, USA**  
-_Jan 2021 - Apr 2022_  
-- Improved operational efficiency by 15% through transaction volume trend analysis.
-- Increased transaction volumes by 10% via KPI design in Power BI, reducing churn by 15%.
-- Achieved a 20% YOY increase in engagement through statistical analysis of customer behavior.
-- Reduced default rates by 12% with predictive models for credit risk assessment.
-- Cut data collection time by 40% through automated reporting frameworks using AWS Glue and Redshift.
-- Enhanced data quality for strategic decision-making in collaboration with cross-functional teams.
+## 🏢 Revotyx LLC
+**Data Engineer**  
+_Sep 2024 – Jun 2025_
 
-**Data Science Intern | Adobe Commerce - Texas State University, USA**  
+- Engineered production-grade data pipelines using **Python, SQL, Azure Databricks (Delta Lake), and Azure Data Factory**.
+- Ingested and processed **1M+ job postings via REST APIs**, improving lead targeting accuracy by **30%**.
+- Consolidated **10+ data sources** into centralized **ADLS Gen2 + Delta Lake** supporting batch & real-time analytics.
+- Enabled predictive lead scoring models, increasing **sales conversion efficiency by 25%**.
+- Implemented **Row-Level Security (RLS), scheduled refresh, and deployment pipelines in Power BI Service**.
+- Integrated **Azure Key Vault** for secure credential management.
+- Built **CI/CD pipelines using Azure DevOps**, YAML release pipelines, and pull requests.
+- Improved ML and dashboard delivery speed by **40%** through structured data quality frameworks.
+
+---
+
+### Data Analysis & BI Assistant | TXST- Austin,TX**
+_Feb 2024 – May 2024_
+
+- Built a comprehensive dashboard using Excel (formulas, macros, pivot tables, vlookup) tracking over 5,000 correspondence logs, allowing the stakeholders to identify high-volume request types and reduce response times by 15%.
+- Developed Power BI dashboard by utilizing Power Query for ETL processes to clean, transform, and merge student enrollment and academic performance data. The dashboard provided actionable insights that helped the college administration launch 13 new academic programs based on trends and performance metrics.
+- Created custom Power Apps to streamline student inquiries and automate manual processes, including complex workflows with approval processes, notifications, and data synchronization. Integrated Power Automate with various data sources and services such as SharePoint and Microsoft Teams, resulting in a 30% reduction in manual tasks and enhanced operational efficiency.
+- Implemented advanced DAX functions and drill-through capabilities to provide detailed insights on common student inquiries, resulting in a 20% drop in common student inquiries the following semester by conducting targeted workshops and sending newsletters based on the most frequent requests.
+
+---
+
+**Applied Data Science Intern | Adobe Commerce -  Austin,TX**  
 _Aug 2023 - Dec 2023_  
 - Performed data analysis on 60,000 tickets from the CRM system in python using regex and NLP libraries (Spacy, NLTK) for data cleansing and tagging, and statistical analysis packages in R for model validation and accuracy assessment.
 - Utilized topic modeling techniques (LDA, BERT) and deep learning classification algorithms, improving classification accuracy to 95%, which contributed to increased customer satisfaction.
@@ -44,12 +56,29 @@ _Aug 2023 - Dec 2023_
   
 ![Classification Model Results](Classification_Models.png) 
 
-**Graduate Student Assistant | Texas State University, Round Rock**  
-_Feb 2024 - May 2024_
-- Built a comprehensive dashboard using Excel (formulas, macros, pivot tables, vlookup) tracking over 5,000 correspondence logs, allowing the stakeholders to identify high-volume request types and reduce response times by 15%.
-- Developed Power BI dashboard by utilizing Power Query for ETL processes to clean, transform, and merge student enrollment and academic performance data. The dashboard provided actionable insights that helped the college administration launch 13 new academic programs based on trends and performance metrics.
-- Created custom Power Apps to streamline student inquiries and automate manual processes, including complex workflows with approval processes, notifications, and data synchronization. Integrated Power Automate with various data sources and services such as SharePoint and Microsoft Teams, resulting in a 30% reduction in manual tasks and enhanced operational efficiency.
-- Implemented advanced DAX functions and drill-through capabilities to provide detailed insights on common student inquiries, resulting in a 20% drop in common student inquiries the following semester by conducting targeted workshops and sending newsletters based on the most frequent requests.
+## 🏢 Tata Consultancy Services
+_Nov 2018 – Apr 2022_
+
+### Data Analyst – ICICI Lombard
+
+- Built and maintained **10+ Power BI dashboards** across insurance product lines.
+- Reduced fraud anomalies by **15%**.
+- Automated regulatory reporting using **Python, Power Automate**, reducing manual effort by **60%**.
+- Identified **100+ data anomalies during UAT**.
+- Improved data quality score from **82% to 95%**.
+- Developed scalable pipelines using **Azure SQL, ADF, and Databricks**.
+- Enabled self-service analytics for **100+ users**.
+
+---
+
+### IT Analyst
+_Aug 2016 – Nov 2018_
+
+- Processed **1M+ policy and claims records**, reducing processing time by **15%**.
+- Reduced reconciliation errors by **35%** through automated validation.
+- Standardized reporting using SQL stored procedures, improving efficiency by **25%**.
+- Improved audit compliance score by **20%**.
+- Documented **30+ ETL workflows and business requirements**.
 
 ## Projects
 
